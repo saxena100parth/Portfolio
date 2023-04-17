@@ -1,5 +1,7 @@
-# portfolio
+# Portfolio
 In my portfolio, you'll find a collection of projects I've worked on.
+
+[!CHECK IT OUT](https://saxena100parth.github.io/Portfolio/index.html)
 
 ## Areas of Interest : 
 1. Algorithms and Data Structure
